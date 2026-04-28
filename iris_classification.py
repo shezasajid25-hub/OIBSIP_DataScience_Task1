@@ -1,7 +1,7 @@
 # ============================================================
 #  OIBSIP Task 1 — Iris Flower Classification
 #  Domain : Data Science / Machine Learning
-#  Author : <YOUR NAME>
+#  Author : Sheza Sajid
 # ============================================================
 
 # ---------- 1. Install / Import Libraries ----------
